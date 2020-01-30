@@ -1,0 +1,1 @@
+数据库sql在resources目录sql文件夹下
