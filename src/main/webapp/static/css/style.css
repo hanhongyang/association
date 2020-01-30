@@ -1,0 +1,14 @@
+	@CHARSET "UTF-8";
+	/*common*/
+
+	*{font-family:Microsoft YaHei,Arial, Helvetica, sans-serif,SunSim;margin:0;padding:0;border:0;outline:0;font:inherit;font-weight:inherit;}
+	/* .zhl_admin_update_no 单张(按钮居右)，.zhl_admin_update_two 单张(按钮居下).zhl_admin_update_more多张（最大10）*/
+	.zhl_admin_update_no{width:200px;height:100px;}
+	.zhl_admin_update_two{width:100px;height:200px;}
+	.zhl_admin_update_more{width:530px;max-height:220px;min-height:108px;}
+	.zhl_admin_update_no #zhl_update_hint,.zhl_admin_update_two #zhl_update_hint{display:none;}
+	.zhl_admin_update_no #zhl_admin_update_btn{float:right;}
+	#zhl_admin_update{width:100%;height:16%;border:1px solid #ccc;margin:0 auto;padding:5px;background: #fff;}
+	#zhl_admin_update img{width:98px;height:98px;border:1px solid #ddd;margin-right:5px;}
+	#zhl_admin_update #zhl_admin_img{width:98px;height:98px;}
+	#zhl_update_hint{float:right;font-size:12px;color:#666;margin:-20px 10px 0 0;}
