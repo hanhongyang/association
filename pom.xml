@@ -110,7 +110,7 @@
         <dependency>
             <groupId>org.json</groupId>
             <artifactId>json</artifactId>
-            <version>20180813</version><!--注意：20160810版本不支持JSONArray-->
+            <version>20230227</version><!--注意：20160810版本不支持JSONArray-->
         </dependency>
         <!-- https://mvnrepository.com/artifact/aspectj/aspectjrt -->
         <dependency>
